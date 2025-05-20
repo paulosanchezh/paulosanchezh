@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Sánchez</h1>
-<h3 align="center">Looking to start my professional career as a software developer.</h3>
+<h3 align="center">👨‍💻 Soy un programador junior con pasión por el desarrollo de software y una sólida formación en Ingeniería Informática. Mi enfoque es práctico y orientado a resultados, respaldado por una capacitación intensiva en tecnologías clave como Java, Spring Boot, CSS, HTML y JPA.
+
+ Me defino por mi compromiso con el aprendizaje continuo, la mejora constante y la capacidad de adaptarme rápidamente a nuevos retos. Disfruto trabajando en equipo, aportando ideas y colaborando para alcanzar objetivos comunes. Mi experiencia incluye proyectos colaborativos donde he aplicado metodologías ágiles (Scrum), control de versiones con Git y gestión eficiente del tiempo para cumplir plazos sin sacrificar calidad.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
