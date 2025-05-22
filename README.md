@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, Soy Paulo Sánchez</h1>
+<a align="left" href="https://github.com/paulosanchezh/paulosanchezh/blob/main/README-en.md">English Version</a>
 <h3 align="center">👨‍💻 Soy un programador junior con pasión por el desarrollo de software y una sólida formación en Ingeniería Informática. Mi enfoque es práctico y orientado a resultados, respaldado por una capacitación intensiva en tecnologías clave como Java, Spring Boot, CSS, HTML y JPA. <br> <br> Me defino por mi compromiso con el aprendizaje continuo, la mejora constante y la capacidad de adaptarme rápidamente a nuevos retos. Disfruto trabajando en equipo, aportando ideas y colaborando para alcanzar objetivos comunes. Mi experiencia incluye proyectos colaborativos donde he aplicado metodologías ágiles (Scrum), control de versiones con Git y gestión eficiente del tiempo para cumplir plazos sin sacrificar calidad.</h3>
 <br>
 
