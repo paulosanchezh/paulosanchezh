@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm Paulo Sánchez</h1>
+<h1 align="center">Hola 👋, Soy Paulo Sánchez</h1>
 <h3 align="center">👨‍💻 Soy un programador junior con pasión por el desarrollo de software y una sólida formación en Ingeniería Informática. Mi enfoque es práctico y orientado a resultados, respaldado por una capacitación intensiva en tecnologías clave como Java, Spring Boot, CSS, HTML y JPA. <br> <br> Me defino por mi compromiso con el aprendizaje continuo, la mejora constante y la capacidad de adaptarme rápidamente a nuevos retos. Disfruto trabajando en equipo, aportando ideas y colaborando para alcanzar objetivos comunes. Mi experiencia incluye proyectos colaborativos donde he aplicado metodologías ágiles (Scrum), control de versiones con Git y gestión eficiente del tiempo para cumplir plazos sin sacrificar calidad.</h3>
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paulosanchezh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulosanchezh" height="30" width="40" /></a>
+<h3 align="center">Contacto:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p+>
-<br> <br>
-
+<h3 align="center">Skills</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git" />
+  </a>
+</p>
+<br>
+<p align="center">
 <picture>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=paulosanchezh&theme=vue-dark&hide_border=false&card_width=450"
@@ -21,7 +30,9 @@
   />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulosanchezh&theme=dark&hide_border=false&card_width=450" />
 </picture>
-<br><br>
+</p>
+<br>
+<p align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=paulosanchezh&theme=vue-dark&rank_icon=github"
@@ -33,7 +44,9 @@
   />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulosanchezh&theme=vue&rank_icon=github" />
 </picture>
-<br><br>
+</p>
+<br>
+<p align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&card_width=450"
@@ -45,6 +58,7 @@
   />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&theme=vue&show_icons=true&hide_border=false&layout=compact&card_width=450" />
 </picture>
+</p>
   
 
 
