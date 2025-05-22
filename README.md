@@ -15,6 +15,17 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git" />
+    <picture>
+      <source
+        srcset="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git&theme=ligth" />
+    </picture>
   </a>
 </p>
 <br>
