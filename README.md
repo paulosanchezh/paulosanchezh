@@ -4,14 +4,14 @@
 
 <h3 align="center">Contacto:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/paulosanchezh/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="mailto:paulosanchez.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-<h3 align="center">Skills</h3>
+<h3 align="center">Habilidades</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git" />
