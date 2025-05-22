@@ -14,17 +14,16 @@
 <h3 align="center">Habilidades</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git" />
+    <img src="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git&theme=dark#gh-light-mode-only" />
+    <img src="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git&theme=light#gh-dark-mode-only" />
+  </a>
+</p>
+<h3 align="center">Habilidades</h3>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-      <source
-        srcset="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img align="center" src="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git&theme=ligth" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git&theme=light">
+      <img alt="Shows Anuraghazra's GitHub Stats." src="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git">
     </picture>
   </a>
 </p>
