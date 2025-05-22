@@ -10,16 +10,41 @@
 <p align="left"> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p+>
 <br> <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=paulosanchezh&theme=highcontrast" />
-</a>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=paulosanchezh&theme=highcontrast)](https://git.io/streak-stats)
-<br> <br>
-![paulosanchezh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-<br> <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulosanchezh&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=paulosanchezh&theme=vue-dark&hide_border=false&card_width=450"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=paulosanchezh&theme=vue&hide_border=false&card_width=450"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulosanchezh&theme=dark&hide_border=false&card_width=450" />
+</picture>
+<br><br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=paulosanchezh&theme=vue-dark&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=paulosanchezh&theme=vue&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulosanchezh&theme=vue&rank_icon=github" />
+</picture>
+<br><br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&card_width=450"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&theme=vue&show_icons=true&hide_border=false&layout=compact&card_width=450"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&theme=vue&show_icons=true&hide_border=false&layout=compact&card_width=450" />
+</picture>
   
 
 
