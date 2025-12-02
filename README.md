@@ -45,9 +45,10 @@
 |:---:|:---:|:---:|
 | Plataforma de adopción | Innovación tecnológica | Scripts y Utilidades |
 | ![PawHome](https://img.shields.io/badge/Tech-SpringBoot%20%7C%20Java-blue) | ![P2](https://img.shields.io/badge/Tech-C++%20%7C%20Java-yellow) | ![Tools](https://img.shields.io/badge/Tech-C%2B%2B%20%7C%20Bash-green) |
-| [🔗 Ver Repo](https://github.com/paulosanchezh/PawHome) | [🔗 Ver Repo](https://github.com/paulosanchezh/Proyecto2) | [🔗 Ver Perfil](https://github.com/paulosanchezh?tab=repositories) |
+| [🔗 Ver Repo](https://github.com/PawHome-Grupo3/PawHome) | [🔗 Ver Repo](https://github.com/paulosanchezh/practicasUCA25-26) | [🔗 Ver Perfil](https://github.com/paulosanchezh?tab=repositories) |
 
 </div>
+
 ---
 
 <h2 align="center">📅 Mi Trayectoria</h2>
