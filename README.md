@@ -1,65 +1,72 @@
-<h1 align="center">Hola 👋, Soy Paulo Sánchez</h1>
-<a align="left" href="https://github.com/paulosanchezh/paulosanchezh/blob/main/README-en.md">English Version</a>
-<h3 align="center">👨‍💻 Soy un programador junior con pasión por el desarrollo de software y una sólida formación en Ingeniería Informática. Mi enfoque es práctico y orientado a resultados, respaldado por una capacitación intensiva en tecnologías clave como Java, Spring Boot, CSS, HTML y JPA. <br> <br> Me defino por mi compromiso con el aprendizaje continuo, la mejora constante y la capacidad de adaptarme rápidamente a nuevos retos. Disfruto trabajando en equipo, aportando ideas y colaborando para alcanzar objetivos comunes. Mi experiencia incluye proyectos colaborativos donde he aplicado metodologías ágiles (Scrum), control de versiones con Git y gestión eficiente del tiempo para cumplir plazos sin sacrificar calidad.</h3>
-<br>
+<!-- ========================= -->
+<!-- 🎨 BANNER PRINCIPAL      -->
+<!-- ========================= -->
 
-<h3 align="center">Contacto</h3>
+<h1 align="center"><strong>Paulo Sánchez Hernández</strong></h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulosanchezh/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <strong>Ingeniero Informático · Desarrollador Full-Stack en Crecimiento</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Buscando%20Oportunidades%20Laborales-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lenguajes-C++%20|%20Java%20|%20Python%20|%20JavaScript-2196F3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Email-paulosanchezhogar%40gmail.com-E91E63?style=for-the-badge" />
+</p>
+
+---
+
+# 🌟 Sobre mí
+
+Soy un apasionado del desarrollo que disfruta creando proyectos funcionales, visuales y orientados a ayudar a otros.  
+Me considero una persona curiosa, constante y con ganas de seguir creciendo tanto profesional como personalmente.
+
+Actualmente **busco oportunidades laborales** donde pueda aplicar mis conocimientos, desarrollar nuevas habilidades y aprender de un buen equipo.
+
+---
+
+# 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,docker,git,github,vscode,idea,linux" />
+</p>
+
+---
+
+# 🎬 Sección animada: “Mi viaje en código”
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=600&lines=Desarrollador+curioso+y+en+constante+crecimiento;Me+encanta+crear+proyectos+con+impacto;Siempre+aprendiendo%2C+siempre+avanzando" />
+</p>
+
+---
+
+# 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulosanchezh&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=paulosanchezh&theme=tokyonight" />
+</p>
+
+---
+
+# 📬 Contacto
+
+<p align="center">
+  <a href="mailto:paulosanchezhogar@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar%20Email-0088ff?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:paulosanchez.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
 </p>
-<h3 align="center">Habilidades</h3>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,java,js,spring,postgres,mysql,docker,github,git&theme=dark" />
-  </a>
+  Gracias por pasar por mi perfil 😄  
+  ¡Siempre estoy trabajando en algo nuevo!
 </p>
-<br>
-<p align="center">
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=paulosanchezh&theme=vue-dark&hide_border=false&card_width=450"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=paulosanchezh&theme=vue&hide_border=false&card_width=450"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulosanchezh&theme=dark&hide_border=false&card_width=450" />
-</picture>
-</p>
-<br>
-<p align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=paulosanchezh&theme=vue-dark&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=paulosanchezh&theme=vue&rank_icon=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulosanchezh&theme=vue&rank_icon=github" />
-</picture>
-</p>
-<br>
-<p align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&card_width=450"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&theme=vue&show_icons=true&hide_border=false&layout=compact&card_width=450"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&theme=vue&show_icons=true&hide_border=false&layout=compact&card_width=450" />
-</picture>
-</p>
+
   
 
 
