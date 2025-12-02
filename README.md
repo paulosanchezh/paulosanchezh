@@ -1,76 +1,94 @@
-<!-- ========================= -->
-<!-- 🎨 BANNER PRINCIPAL      -->
-<!-- ========================= -->
-
-<h1 align="center"><strong>Paulo Sánchez Hernández</strong></h1>
-
 <p align="center">
-  <strong>Ingeniero Informático · Desarrollador Full-Stack en Crecimiento</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-Buscando%20Oportunidades%20Laborales-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lenguajes-C++%20|%20Java%20|%20Python%20|%20JavaScript-2196F3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Email-paulosanchezhogar%40gmail.com-E91E63?style=for-the-badge" />
-</p>
-
----
-
-# 🌟 Sobre mí
-
-Soy un apasionado del desarrollo que disfruta creando proyectos funcionales, visuales y orientados a ayudar a otros.  
-Me considero una persona curiosa, constante y con ganas de seguir creciendo tanto profesional como personalmente.
-
-Actualmente **busco oportunidades laborales** donde pueda aplicar mis conocimientos, desarrollar nuevas habilidades y aprender de un buen equipo.
-
----
-
-# 🛠️ Tecnologías y herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,docker,git,github,vscode,idea,linux" />
-</p>
-
----
-
-# 🎬 Sección animada: “Mi viaje en código”
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=600&lines=Desarrollador+curioso+y+en+constante+crecimiento;Me+encanta+crear+proyectos+con+impacto;Siempre+aprendiendo%2C+siempre+avanzando" />
-</p>
-
----
-
-# 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulosanchezh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulosanchezh&layout=compact&theme=tokyonight"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=paulosanchezh&theme=tokyonight&hide_border=false"
-  />
-</p>
-
----
-
-# 📬 Contacto
+<h1 align="center" style="margin-top: -180px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hola,+soy+Paulo+Sánchez+👋;Ingeniero+Informático+🚀;Desarrollador+Full-Stack+💻;Creador+de+Soluciones+Innovadoras+⚡" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="mailto:paulosanchezhogar@gmail.com">
-    <img src="https://img.shields.io/badge/Enviar%20Email-0088ff?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Estado-Open%20To%20Work-success?style=for-the-badge&logo=target"/>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>❝ Transformando café en código limpio y eficiente ❞</h3>
+</div>
+
+<p align="center">
+ ✨ Soy un desarrollador creativo enfocado en <strong>construir proyectos con impacto real</strong>. <br>
+ 🧠 Me especializo en encontrar el equilibrio entre la <strong>lógica del backend</strong> y la <strong>experiencia visual del frontend</strong>.
+</p>
+
+---
+
+<h2 align="center">⚡ Arsenal Tecnológico</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,mysql,postgres,docker,git,linux,vscode,idea,tailwind&perline=8&theme=dark" />
   </a>
 </p>
 
+---
+
+<h2 align="center">📈 Rendimiento en GitHub</h2>
+
 <p align="center">
-  Gracias por pasar por mi perfil 😄  
-  ¡Siempre estoy trabajando en algo nuevo!
+  <img src="https://github-readme-stats.vercel.app/api?username=paulosanchezh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515&title_color=00E5FF&icon_color=9400d3" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515&title_color=00E5FF" height="180" alt="languages graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=paulosanchezh&theme=tokyonight&hide_border=true&background=151515&ring=9400d3&currStreakLabel=00E5FF" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">🧪 Experimentos y Proyectos</h2>
+
+| 🐾 **PawHome** | 🚀 **Proyecto 2** | 🛠️ **Herramientas** |
+|:---:|:---:|:---:|
+| Plataforma de adopción | Innovación tecnológica | Scripts y Utilidades |
+| ![PawHome](https://img.shields.io/badge/Tech-React%20%7C%20Node-blue) | ![P2](https://img.shields.io/badge/Tech-Python%20%7C%20AI-yellow) | ![Tools](https://img.shields.io/badge/Tech-C%2B%2B%20%7C%20Bash-green) |
+| [🔗 Ver Repo](https://github.com/paulosanchezh/PawHome) | [🔗 Ver Repo](https://github.com/paulosanchezh/Proyecto2) | [🔗 Ver Perfil](https://github.com/paulosanchezh?tab=repositories) |
+
+---
+
+<h2 align="center">📅 Mi Trayectoria</h2>
+
+<div align="center">
+
+`2025` 🚀 **Buscando Nuevos Retos** · *Full Stack Developer* ⬇  
+`2024` 🐶 **Lanzamiento PawHome** · *Desarrollo Web Avanzado* ⬇  
+`2023` 💡 **Primer Gran Proyecto** · *Consolidando conocimientos* ⬇  
+`2022` 🎓 **Inicio UCA** · *Ingeniería Informática*
+
+</div>
+
+---
+
+<h2 align="center">🐍 Contribuciones (Snake Game)</h2>
+<p align="center">
+  <img src="https://github.com/paulosanchezh/paulosanchezh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</p>
+
+---
+
+<h2 align="center">🏆 Logros Desbloqueados</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paulosanchezh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,2,0&height=100&section=footer&fontSize=0" width="100%"/>
 </p>
