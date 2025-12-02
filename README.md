@@ -44,12 +44,20 @@ Actualmente **busco oportunidades laborales** donde pueda aplicar mis conocimien
 # 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulosanchezh&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&layout=compact&theme=tokyonight" height="165" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paulosanchezh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paulosanchezh&layout=compact&theme=tokyonight"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=paulosanchezh&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=paulosanchezh&theme=tokyonight&hide_border=false"
+  />
 </p>
 
 ---
@@ -66,12 +74,3 @@ Actualmente **busco oportunidades laborales** donde pueda aplicar mis conocimien
   Gracias por pasar por mi perfil 😄  
   ¡Siempre estoy trabajando en algo nuevo!
 </p>
-
-  
-
-
-
-
-
-
-
