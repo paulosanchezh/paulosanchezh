@@ -58,7 +58,7 @@
 `2025` 🚀 **Buscando Nuevos Retos** · *Full Stack Developer* ⬇  
 `2024` 🐶 **Lanzamiento PawHome** · *Desarrollo Web Avanzado* ⬇  
 `2023` 💡 **Primer Gran Proyecto** · *Consolidando conocimientos* ⬇  
-`2022` 🎓 **Inicio UCA** · *Ingeniería Informática*
+`2020` 🎓 **Inicio UCA** · *Ingeniería Informática*
 
 </div>
 
