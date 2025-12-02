@@ -3,9 +3,6 @@ import datetime
 
 USERNAME = "paulosanchezh"
 
-# Crear carpeta assets si no existe
-os.makedirs("assets", exist_ok=True)
-
 # Obtener stats desde GitHub API
 repos = requests.get(f"https://api.github.com/users/{USERNAME}/repos").json()
 num_repos = len(repos)
