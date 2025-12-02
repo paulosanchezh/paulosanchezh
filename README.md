@@ -31,23 +31,6 @@
 
 ---
 
-<h2 align="center">⚡ Arsenal Tecnológico</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,mysql,postgres,docker,git,linux,vscode,idea,tailwind&perline=8&theme=dark" />
-  </a>
-</p>
-
----
-
-<h2 align="center">📈 Rendimiento en GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulosanchezh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515&title_color=00E5FF&icon_color=9400d3" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515&title_color=00E5FF" height="180" alt="languages graph" />
-</p>
-
 <h2 align="center">🐍 Contribuciones</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/paulosanchezh/paulosanchezh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
@@ -56,13 +39,15 @@
 ---
 
 <h2 align="center">🧪 Experimentos y Proyectos</h2>
+<div align="center">
 
-| 🐾 **PawHome** | 🚀 **Proyecto 2** | 🛠️ **Herramientas** |
+| 🐾 **PawHome** | 🚀 **Practicas UCA** | 🛠️ **Herramientas** |
 |:---:|:---:|:---:|
 | Plataforma de adopción | Innovación tecnológica | Scripts y Utilidades |
-| ![PawHome](https://img.shields.io/badge/Tech-React%20%7C%20Node-blue) | ![P2](https://img.shields.io/badge/Tech-Python%20%7C%20AI-yellow) | ![Tools](https://img.shields.io/badge/Tech-C%2B%2B%20%7C%20Bash-green) |
+| ![PawHome](https://img.shields.io/badge/Tech-SpringBoot%20%7C%20Java-blue) | ![P2](https://img.shields.io/badge/Tech-C++%20%7C%20Java-yellow) | ![Tools](https://img.shields.io/badge/Tech-C%2B%2B%20%7C%20Bash-green) |
 | [🔗 Ver Repo](https://github.com/paulosanchezh/PawHome) | [🔗 Ver Repo](https://github.com/paulosanchezh/Proyecto2) | [🔗 Ver Perfil](https://github.com/paulosanchezh?tab=repositories) |
 
+</div>
 ---
 
 <h2 align="center">📅 Mi Trayectoria</h2>
@@ -78,7 +63,17 @@
 
 ---
 
-# 📊 Actividad en GitHub (FUNCIONA 100%)
+<h2 align="center">⚡ Arsenal Tecnológico</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,mysql,postgres,docker,git,linux,vscode,idea,tailwind&perline=8&theme=dark" />
+  </a>
+</p>
+
+---
+
+# 📊 Actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulosanchezh&theme=react-dark&area=true&hide_border=true" />
