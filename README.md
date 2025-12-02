@@ -1,3 +1,18 @@
+# 📊 Actividad en GitHub (FUNCIONA 100%)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulosanchezh&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img width="800" src="https://raw.githubusercontent.com/paolosalvatore/animated-assets/main/mega-wave.gif">
+</p>
+
+<p align="center">
+  <img width="450" src="https://raw.githubusercontent.com/paolosalvatore/animated-assets/main/radar-skill.svg" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=&fontSize=0" width="100%"/>
 </p>
