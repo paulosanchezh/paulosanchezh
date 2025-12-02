@@ -1,9 +1,3 @@
-## 📊 Dashboard Personal (Actualizado Automáticamente)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/paulosanchezh/paulosanchezh/main/assets/dashboard.svg">
-</p>
-
 # 📊 Actividad en GitHub (FUNCIONA 100%)
 
 <p align="center">
