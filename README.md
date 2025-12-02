@@ -1,54 +1,3 @@
-# 📊 Actividad en GitHub (FUNCIONA 100%)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulosanchezh&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img width="800" src="https://raw.githubusercontent.com/paolosalvatore/animated-assets/main/mega-wave.gif">
-</p>
-
-<p align="center">
-  <img width="450" src="https://raw.githubusercontent.com/paolosalvatore/animated-assets/main/radar-skill.svg" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=&fontSize=0" width="100%"/>
-</p>
-
-<p align="center" style="margin-top: -190px;">
-  <img src="https://github-readme-stats.vercel.app/api/card?username=paulosanchezh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151515&title_color=00E5FF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github" alt="Tarjeta de Perfil de Paulo Sánchez Hernández" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-Buscando%20Oportunidades-success?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Stack-C%2B%2B%20%C2%B7%20Java%20%C2%B7%20Python%20%C2%B7%20JS-673ab7?style=for-the-badge&logo=codeigniter" />
-</p>
-
----
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=&fontSize=0" width="100%"/>
-</p>
-
-<p align="center" style="margin-top: -210;">
-  <a href="https://github.com/paulosanchezh">
-    <img src="https://github-profile-card-generator.vercel.app/api/profile?username=paulosanchezh&theme=dark_title&title_color=00E5FF&icon_color=FF00FF&text_color=9400D3&background_color=0D1117&github_icon=true&linkedin_icon=true&email_icon=true&show_description=true&description=Ingeniero+Inform%C3%A1tico+%C2%B7+Desarrollador+Full-Stack+%C2%B7+Especializado+en+soluciones+innovadoras+con+C%2B%2B%2C+Python+y+React." width="650" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-Buscando%20Oportunidades-success?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Stack-C%2B%2B%20%C2%B7%20Java%20%C2%B7%20Python%20%C2%B7%20JS-673ab7?style=for-the-badge&logo=codeigniter" />
-</p>
-
----
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:ff00ff&height=200&section=header&text=Paulo%20Sánchez%20Hernández&fontSize=50&animation=twinkling&fontColor=fff"/>
 </p>
@@ -129,9 +78,10 @@
 
 ---
 
-<h2 align="center">🏆 Constancia</h2>
+# 📊 Actividad en GitHub (FUNCIONA 100%)
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=paulosanchezh&theme=tokyonight&hide_border=true&background=151515&ring=9400d3&currStreakLabel=00E5FF" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulosanchezh&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 <p align="center">
