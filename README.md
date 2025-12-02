@@ -1,10 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=&fontSize=0" width="100%"/>
+</p>
+
+<p align="center" style="margin-top: -210;">
+  <a href="https://github.com/paulosanchezh">
+    <img src="https://github-profile-card-generator.vercel.app/api/profile?username=paulosanchezh&theme=dark_title&title_color=00E5FF&icon_color=FF00FF&text_color=9400D3&background_color=0D1117&github_icon=true&linkedin_icon=true&email_icon=true&show_description=true&description=Ingeniero+Inform%C3%A1tico+%C2%B7+Desarrollador+Full-Stack+%C2%B7+Especializado+en+soluciones+innovadoras+con+C%2B%2B%2C+Python+y+React." width="650" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Buscando%20Oportunidades-success?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Stack-C%2B%2B%20%C2%B7%20Java%20%C2%B7%20Python%20%C2%B7%20JS-673ab7?style=for-the-badge&logo=codeigniter" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:ff00ff&height=200&section=header&text=Paulo%20Sánchez%20Hernández&fontSize=50&animation=twinkling&fontColor=fff"/>
 </p>
 
 <h1 align="center" style="margin-top: -190px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hola,+soy+Paulo+Sanchez+👋;Ingeniero+Informatico+🚀;Desarrollador+Full-Stack+💻;Creador+de+Soluciones+Innovadoras+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;Ingeniero+Informatico;Siempre+buscando+el+proximo+reto+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
