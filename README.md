@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=&fontSize=0" width="100%"/>
 </p>
 
-<h1 align="center" style="margin-top: -180px;">
+<h1 align="center" style="margin-top: -190px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hola,+soy+Paulo+Sánchez+👋;Ingeniero+Informático+🚀;Desarrollador+Full-Stack+💻;Creador+de+Soluciones+Innovadoras+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hola,+soy+Paulo+Sanchez+👋;Ingeniero+Informatico+🚀;Desarrollador+Full-Stack+💻;Creador+de+Soluciones+Innovadoras+⚡" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -12,7 +12,7 @@
   <a href="mailto:paulosanchezhogar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-sanchez-hernandez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Estado-Open%20To%20Work-success?style=for-the-badge&logo=target"/>
@@ -48,8 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&layout=compact&theme=tokyonight&hide_border=true&bg_color=151515&title_color=00E5FF" height="180" alt="languages graph" />
 </p>
 
+<h2 align="center">🐍 Contribuciones</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=paulosanchezh&theme=tokyonight&hide_border=true&background=151515&ring=9400d3&currStreakLabel=00E5FF" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/paulosanchezh/paulosanchezh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
 
 ---
@@ -77,16 +78,9 @@
 
 ---
 
-<h2 align="center">🐍 Contribuciones (Snake Game)</h2>
+<h2 align="center">🏆 Constancia</h2>
 <p align="center">
-  <img src="https://github.com/paulosanchezh/paulosanchezh/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</p>
-
----
-
-<h2 align="center">🏆 Logros Desbloqueados</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paulosanchezh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://streak-stats.demolab.com?user=paulosanchezh&theme=tokyonight&hide_border=true&background=151515&ring=9400d3&currStreakLabel=00E5FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
