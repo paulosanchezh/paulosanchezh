@@ -1,85 +1,62 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:ff00ff&height=200&section=header&text=Paulo%20Sánchez%20Hernández&fontSize=50&animation=twinkling&fontColor=fff"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=150&section=header&text=Paulo%20Sánchez%20Hernández&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<h1 align="center" style="margin-top: -190px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;Ingeniero+Informatico;Siempre+buscando+el+proximo+reto+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+  <h2>Ingeniero Informático & Full-Stack Developer 💻</h2>
+  <p><i>Transformando café en código limpio, eficiente y enfocado en solucionar problemas reales.</i></p>
 
-<p align="center">
-  <a href="mailto:paulosanchezhogar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/paulosanchezh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Estado-Open%20To%20Work-success?style=for-the-badge&logo=target"/>
-</p>
+  <a href="mailto:paulosanchezhogar@gmail.com"><img src="https://img.shields.io/badge/Email-paulosanchezhogar%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/paulosanchezh/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Estado-Open_To_Work-238636?style=flat-square" alt="Open to Work"/>
+</div>
+
+---
+
+### 👨‍💻 Sobre mí
+
+- 🎓 **Ingeniero Informático** graduado por la Universidad de Cádiz (UCA).
+- 🛠️ Me especializo en encontrar el equilibrio perfecto entre la **robusteza del backend** y la **usabilidad del frontend**.
+- 💡 Prefiero dominar a fondo mis herramientas principales y buenas prácticas antes que saber "un poco de todo". 
+- 🌱 Actualmente en búsqueda activa de mi próximo reto profesional para seguir aportando valor y creciendo.
+
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Stack Tecnológico |
+| :--- | :--- | :--- |
+| **[🐶 PawHome](https://github.com/PawHome-Grupo3/PawHome)** | Plataforma integral desarrollada para facilitar la adopción y el rescate de animales. | `Java`, `Spring Boot`, `MySQL` |
+| **[🎓 Prácticas UCA](https://github.com/paulosanchezh/practicasUCA25-26)** | Repositorio académico con foco en algoritmos, estructuras de datos y optimización. | `C++`, `Java` |
+| **[🛠️ Utilidades & Scripts](https://github.com/paulosanchezh?tab=repositories)** | Colección de herramientas propias enfocadas en la automatización del entorno. | `Bash`, `C++`, `Linux` |
+
+---
+
+### ⚡ Arsenal Tecnológico
+
+En lugar de listar decenas de iconos, aquí están las tecnologías en las que me siento realmente cómodo trabajando:
+
+**Backend & Core:** <img src="https://skillicons.dev/icons?i=java,cpp,python,nodejs,mysql,postgres&theme=dark" />
+
+**Frontend & Web:** <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
+
+**Herramientas & Entorno:** <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,idea&theme=dark" />
+
+---
+
+### 📊 Actividad y Contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulosanchezh/paulosanchezh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulosanchezh/paulosanchezh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulosanchezh/paulosanchezh/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 <br>
 
 <div align="center">
-  <h3>❝ Transformando café en código limpio y eficiente ❞</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=paulosanchezh&show_icons=true&theme=transparent&hide_border=true&title_color=6FB1FC&text_color=8b949e&icon_color=6FB1FC&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanchezh&layout=compact&theme=transparent&hide_border=true&title_color=6FB1FC&text_color=8b949e&bg_color=0D1117" height="150" />
 </div>
 
-<p align="center">
- ✨ Soy un desarrollador creativo enfocado en <strong>construir proyectos con impacto real</strong>. <br>
- 🧠 Me especializo en encontrar el equilibrio entre la <strong>lógica del backend</strong> y la <strong>experiencia visual del frontend</strong>.
-</p>
-
----
-
-<h2 align="center">🐍 Contribuciones</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/paulosanchezh/paulosanchezh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</p>
-
----
-
-<h2 align="center">🧪 Experimentos y Proyectos</h2>
-<div align="center">
-
-| 🐾 **PawHome** | 🚀 **Practicas UCA** | 🛠️ **Herramientas** |
-|:---:|:---:|:---:|
-| Plataforma de adopción | Innovación tecnológica | Scripts y Utilidades |
-| ![PawHome](https://img.shields.io/badge/Tech-SpringBoot%20%7C%20Java-blue) | ![P2](https://img.shields.io/badge/Tech-C++%20%7C%20Java-yellow) | ![Tools](https://img.shields.io/badge/Tech-C%2B%2B%20%7C%20Bash-green) |
-| [🔗 Ver Repo](https://github.com/PawHome-Grupo3/PawHome) | [🔗 Ver Repo](https://github.com/paulosanchezh/practicasUCA25-26) | [🔗 Ver Perfil](https://github.com/paulosanchezh?tab=repositories) |
-
-</div>
-
----
-
-<h2 align="center">📅 Mi Trayectoria</h2>
-
-<div align="center">
-
-`2025` 🚀 **Buscando Nuevos Retos** · *Full Stack Developer* ⬇  
-`2024` 🐶 **Lanzamiento PawHome** · *Desarrollo Web Avanzado* ⬇  
-`2023` 💡 **Primer Gran Proyecto** · *Consolidando conocimientos* ⬇  
-`2020` 🎓 **Inicio UCA** · *Ingeniería Informática*
-
-</div>
-
----
-
-<h2 align="center">⚡ Arsenal Tecnológico</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,nodejs,mysql,postgres,docker,git,linux,vscode,idea,tailwind&perline=8&theme=dark" />
-  </a>
-</p>
-
----
-
-# 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulosanchezh&theme=react-dark&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,2,0&height=100&section=footer&fontSize=0" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6FB1FC,50:4364F7,100:0052D4&height=100&section=footer" width="100%"/>
