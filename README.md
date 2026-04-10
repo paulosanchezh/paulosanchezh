@@ -24,7 +24,6 @@
 | :--- | :--- | :--- |
 | **[🐶 PawHome](https://github.com/PawHome-Grupo3/PawHome)** | Plataforma integral desarrollada para facilitar la adopción y el rescate de animales. | `Java`, `Spring Boot`, `MySQL` |
 | **[🎓 Prácticas UCA](https://github.com/paulosanchezh/practicasUCA25-26)** | Repositorio académico con foco en algoritmos, estructuras de datos y optimización. | `C++`, `Java` |
-| **[🛠️ Utilidades & Scripts](https://github.com/paulosanchezh?tab=repositories)** | Colección de herramientas propias enfocadas en la automatización del entorno. | `Bash`, `C++`, `Linux` |
 
 ---
 
