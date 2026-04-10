@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=150&section=header&text=Paulo%20Sánchez%20Hernández&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <h2>Ingeniero Informático & Full-Stack Developer 💻</h2>
-  <p><i>Transformando café en código limpio, eficiente y enfocado en solucionar problemas reales.</i></p>
-
+  <h2>Ingeniero Informático 💻</h2>
+  
   <a href="mailto:paulosanchezhogar@gmail.com"><img src="https://img.shields.io/badge/Email-paulosanchezhogar%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/paulosanchezh/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Estado-Open_To_Work-238636?style=flat-square" alt="Open to Work"/>
@@ -14,7 +13,6 @@
 ### 👨‍💻 Sobre mí
 
 - 🎓 **Ingeniero Informático** graduado por la Universidad de Cádiz (UCA).
-- 🛠️ Me especializo en encontrar el equilibrio perfecto entre la **robusteza del backend** y la **usabilidad del frontend**.
 - 💡 Prefiero dominar a fondo mis herramientas principales y buenas prácticas antes que saber "un poco de todo". 
 - 🌱 Actualmente en búsqueda activa de mi próximo reto profesional para seguir aportando valor y creciendo.
 
